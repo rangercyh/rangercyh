@@ -5,7 +5,7 @@ Hi guys, I'm **caiyiheng** . I am a programmer from China.
 I have some works with Game Development, contact me if you have same interesting or some questions!
 
 <p align="center">
-  <img align="left" src ="https://github-readme-stats-b8fusqu02-rangercyh.vercel.app/api?username=rangercyh&show_icons=true&hide_border=true&theme=graywhite&include_all_commits=true&count_private=true">
+  <img src ="https://github-readme-stats-b8fusqu02-rangercyh.vercel.app/api?username=rangercyh&show_icons=true&hide_border=true&theme=graywhite&include_all_commits=true&count_private=true">
   <img src ="https://github-readme-stats-b8fusqu02-rangercyh.vercel.app/api/top-langs/?username=rangercyh&exclude_repo=rangercyh,rangercyh.github.io&layout=compact&hide_border=true&langs_count=10&theme=graywhite&include_all_commits=true&count_private=true">
 </p>
 
