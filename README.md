@@ -6,7 +6,7 @@ I have some works with Game Development, contact me if you have same interesting
 
 <p align="center">
     <img src ="https://github-readme-stats-b8fusqu02-rangercyh.vercel.app/api/top-langs/?username=rangercyh&exclude_repo=rangercyh,rangercyh.github.io&layout=compact&hide_border=true&langs_count=10&theme=graywhite&include_all_commits=true&count_private=true">
-  <img src ="https://github-readme-stats-b8fusqu02-rangercyh.vercel.app/api?username=rangercyh&show_icons=true&hide_border=true&theme=graywhite&include_all_commits=true&count_private=true">
+  <img width="480" src ="https://github-readme-stats-b8fusqu02-rangercyh.vercel.app/api?username=rangercyh&show_icons=true&hide_border=true&theme=graywhite&include_all_commits=true&count_private=true">
 </p>
 
 ## 📖 Learning
